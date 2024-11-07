@@ -49,7 +49,7 @@ Aqui estão alguns dos padrões de design incluídos neste repositório:
   * Data Mapper
   * Repository
 ## Documento 
-Acesse o ducumento para encontrar mais detalhes sobre Padrões de Projeto:
+Acesse o ducumento para encontrar mais detalhes sobre Padrões de Projetos:
 <p align="left"> 
 <a href="">
    <img src="https://img.shields.io/badge/Documento%20Padrões%20de%20Projetos-1f7cbf?style=for-the-badge&logoColor=white" /></a>
