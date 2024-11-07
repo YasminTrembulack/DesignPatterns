@@ -48,7 +48,12 @@ Aqui estão alguns dos padrões de design incluídos neste repositório:
 * Estes padrões ajudam na separação da lógica de acesso a dados e persistência.
   * Data Mapper
   * Repository
-
+## Documento 
+Acesse o ducumento para encontrar mais detalhes sobre Padrões de Projeto:
+<p align="left"> 
+<a href="">
+   <img src="https://img.shields.io/badge/Documento%20Padrões%20de%20Projetos-1f7cbf?style=for-the-badge&logoColor=white" /></a>
+</p>
 
 ## Contribuidores
 <p align="left"> 
