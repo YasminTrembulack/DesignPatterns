@@ -43,10 +43,23 @@ Aqui estão alguns dos padrões de design incluídos neste repositório:
 * Estes padrões tratam de problemas relacionados à execução simultânea de tarefas.
   * Producer-Consumer
   * Thread Pool
-
-## Contribuidores
  
 ### Padrões de Persistência
 * Estes padrões ajudam na separação da lógica de acesso a dados e persistência.
   * Data Mapper
   * Repository
+
+
+## Contribuidores
+<p align="left"> 
+   <a href="https://github.com/anaricetti-c">
+   <img src="https://img.shields.io/badge/Ana%20Ricetti-010559?style=for-the-badge&logo=github&logoColor=white" /></a>
+   <a href="https://github.com/Andrielmarafigo">
+   <img src="https://img.shields.io/badge/Andriel%20Marafigo-010559?style=for-the-badge&logo=github&logoColor=white" /></a>
+   <a href="https://github.com/israelvictorde">
+   <img src="https://img.shields.io/badge/Israel%20Victor-010559?style=for-the-badge&logo=github&logoColor=white" /></a>
+   <a href="https://github.com/StelaDavidSteiner">
+   <img src="https://img.shields.io/badge/Stela%20Steiner-010559?style=for-the-badge&logo=github&logoColor=white" /></a>
+   <a href="https://github.com/YasminTrembulack">
+   <img src="https://img.shields.io/badge/Yasmin%20Trembulack-010559?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
