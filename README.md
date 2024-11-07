@@ -43,6 +43,8 @@ Aqui estão alguns dos padrões de design incluídos neste repositório:
 * Estes padrões tratam de problemas relacionados à execução simultânea de tarefas.
   * Producer-Consumer
   * Thread Pool
+
+## Contribuidores
  
 ### Padrões de Persistência
 * Estes padrões ajudam na separação da lógica de acesso a dados e persistência.
