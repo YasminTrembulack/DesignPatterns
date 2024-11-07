@@ -34,17 +34,17 @@ Aqui estão alguns dos padrões de design incluídos neste repositório:
   * Visitor
 
 ### Padrões Arquiteturais
-* Estes padrões são utilizados para estruturar a arquitetura de sistemas de software, separando responsabilidades e promovendo uma organização clara e eficiente.
+* Estes padrões organizam a estrutura de sistemas de software, promovendo a separação de responsabilidades.
   * MVC (Model-View-Controller)
   * MVVM (Model-View-ViewModel)
   * MVP (Model-View-Presenter)
 
 ### Padrões de Concorrência
-* Estes padrões tratam de problemas relacionados à execução simultânea de tarefas, como gerenciamento de threads e controle de acesso a recursos compartilhados.
+* Estes padrões tratam de problemas relacionados à execução simultânea de tarefas.
   * Producer-Consumer
   * Thread Pool
  
 ### Padrões de Persistência
-* Estes padrões ajudam a separar a lógica de acesso a dados e persistência, promovendo flexibilidade na forma como dados são armazenados e recuperados.
+* Estes padrões ajudam na separação da lógica de acesso a dados e persistência.
   * Data Mapper
   * Repository
