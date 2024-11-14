@@ -1,0 +1,13 @@
+
+EstacaoMeteorologica (Sujeito):
+    A classe EstacaoMeteorologica mantém uma lista de observadores e um estado (_temperatura).
+    O método definir_temperatura altera a temperatura e notifica todos os observadores registrados.
+
+DisplayTemperatura (Observador):
+    A classe DisplayTemperatura define o comportamento do observador, que, neste exemplo, apenas imprime a temperatura atual quando é notificado.
+
+Notificação:
+    Quando a temperatura é alterada no EstacaoMeteorologica (usando o método definir_temperatura), todos os observadores registrados são notificados e atualizados.
+
+Conclusão
+    O padrão Observer permite que a aplicação mantenha os objetos observadores atualizados com mudanças de estado de forma desacoplada. Assim, quando o estado de um objeto (sujeito) muda, todos os objetos interessados (observadores) são notificados e podem agir com base nesse novo estado.
