@@ -1,0 +1,9 @@
+
+Model (TodoModel):
+    A classe TodoModel gerencia a lista de tarefas, permitindo adicionar novas tarefas e recuperar as tarefas existentes.
+
+View (TodoView):
+    A classe TodoView é responsável por exibir a lista de tarefas para o usuário. A função display_tasks imprime as tarefas no console.
+
+Controller (TodoController):
+    A classe TodoController atua como intermediário, recebendo as entradas para adicionar tarefas e solicitando à View para exibir as tarefas do Model.
